@@ -44,6 +44,3 @@ name = "s3"
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
  URL = "s3://dyzipp.com?region=us-east-1"
-
-# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = "E328NNZN1XJRK2"
