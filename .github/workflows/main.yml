@@ -15,8 +15,8 @@ jobs:
           tar xvzf ${HUGO_DOWNLOAD} hugo
         env:
           HUGO_VERSION: 0.80.0
-      - name: Look at directory
-        run: ls -l $GITHUB_WORKSPACE
+      - name: report version
+        run: hugo version
       - name: Hugo Build
         run: $GITHUB_WORKSPACE/hugo --verboseLog
       - name: Deploy to S3
