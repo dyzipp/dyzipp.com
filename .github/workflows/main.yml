@@ -18,9 +18,9 @@ jobs:
       - name: Look at directory
         run: ls -l $GITHUB_WORKSPACE
       - name: Hugo Build
-        run: $GITHUB_WORKSPACE/hugo -v --debug
+        run: $GITHUB_WORKSPACE/hugo --verboseLog
       - name: Deploy to S3
-        run: $GITHUB_WORKSPACE/hugo -v deploy --maxDeletes -1 --debug
+        run: $GITHUB_WORKSPACE/hugo deploy --verboseLog
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
