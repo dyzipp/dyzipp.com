@@ -13,7 +13,6 @@ jobs:
           HUGO_DOWNLOAD=hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
           wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_DOWNLOAD}
           tar xvzf ${HUGO_DOWNLOAD} hugo
-          mv hugo $GITHUB_WORKSPACE/hugo
         env:
           HUGO_VERSION: 0.80.0
       - name: Look at directory
