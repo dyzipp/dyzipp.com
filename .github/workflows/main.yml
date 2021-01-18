@@ -16,7 +16,7 @@ jobs:
         env:
           HUGO_VERSION: 0.80.0
       - name: report version
-        run: hugo version
+        run: $GITHUB_WORKSPACE/hugo version
       - name: Hugo Build
         run: $GITHUB_WORKSPACE/hugo --verboseLog
       - name: Deploy to S3
