@@ -18,7 +18,7 @@ jobs:
       - name: report version
         run: $GITHUB_WORKSPACE/hugo version
       - name: Themes
-        run: ls-l $GITHUB_WORKSPACE/themes
+        run: ls -l $GITHUB_WORKSPACE/themes
       - name: Hugo Build
         run: $GITHUB_WORKSPACE/hugo --verboseLog
       - name: Deploy to S3
