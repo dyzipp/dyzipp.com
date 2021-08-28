@@ -6,12 +6,14 @@ draft: false
 
 ## Contact Information
 
-dyzipp@ucla.edu
-(330) 835-8851
+Email:  dyzipp@ucla.edu
 
-UCLA									
-Department of Sociology							
-375 Portola Plaza 							
+Phone: (330) 835-8851
+
+Address: 
+UCLA	
+Department of Sociology		
+375 Portola Plaza 		
 Los Angeles, CA 90095-1551	
 
 
