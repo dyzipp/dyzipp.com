@@ -1,7 +1,7 @@
 baseURL = "https://dyzipp.com/"
 languageCode = "en-us"
 title = "Daniel Y. Zipp"
-theme = "researcher"
+theme = "hugo-resume"
 enableEmoji = true
 
 [params]
