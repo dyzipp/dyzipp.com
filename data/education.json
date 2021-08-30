@@ -1,15 +1,20 @@
 [
     {
-        "school":"[UCLA",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"University of California, Los Angeles",
+        "degree":"Ph.D., Sociology, expected June 2022",
+        "notes":"Committee: Profs. Edward T. Walker (chair), Min Zhou, Karida Brown, and Alex Wang",
+        "range":"2017 - present"
+    },
+    {
+        "school":"University of California, Los Angeles",
+        "degree":"Masters of Arts",
+        "notes":"Committee: Profs. Marcus Hunter (chair) and Aliza Luft",
+        "range":"2015 - 2017"
     },
     {
         "school":"Oberlin College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "degree":"Bachelor of Arts",
+        "major":"Politics (High Honors) and East Asian Studies",
+        "range":"2009 - 2013"
     }
 ]
