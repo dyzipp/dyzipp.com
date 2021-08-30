@@ -6,7 +6,8 @@ enableEmoji = true
 
 [params]
   author = "Dan Zipp"
-  description = "China Scholar"
+  description = "."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   address = "Pittsburgh, PA"
   favicon = "/favicon.ico"
   firstName = "Daniel"
