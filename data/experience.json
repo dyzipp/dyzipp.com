@@ -1,20 +1,22 @@
 [
     {
-        "role":"Boss Boy",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Instructor",
+        "company":"\n- Collective Behavior",
+        "range":"Summer 2021"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Teaching Assistant",
+        "company":"\n- Center for American Politics and Public Policy",
+        "range":"2020-21"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Instructor",
+        "company":"\n- Political Sociology",
+        "range":"Summer 2020"
+    },
+    {
+        "role":"Teaching Assistant",
+        "company":"\n- Environmental Sociology       (YEZR HERE)\n- Economy and Society\n- Political Sociology\n- Development of Sociological Theory \n- Sociology of Contemporary China\n- Collective Behavior",
+        "range":"2016-17, 2019-2020"
     }
 ]
