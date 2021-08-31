@@ -1,32 +1,58 @@
 [
   {
+    "grouping": "Grants and Awards",
+    "skills": [
+      "Silton Undergraduate Research Mentorship Award, Sociology Department, UCLA (2020-2021)",
+      "Excellence in Teaching Award, Sociology Department, UCLA (2019-2020)",
+      "Excellence in Teaching Award, Sociology Department, UCLA (2016-2017)",
+      "Graduate Research Mentorship Program Fellowship, University of California, Los Angeles Graduate Division, $20,000 (2017)",
+      "Graduate Summer Research Mentorship Program Fellowship, University of California, Los Angeles Graduate Division, $6,000 (2016)"
+    ]
+  },
+  {
+    "grouping": "Conference",
+    "skills": [
+      "Political Sociology and the Global South Working Group, UCLA (2021)",
+      "Markets Organizations and Movements Working Group, UCLA (2021)",
+      "Henan University (2019)",
+      "Political Sociology and the Global South Working Group, UCLA (2019)",
+      "Henan University (2018)",
+      "Shanxi Agricultural University (2018)",
+      "Political Sociology and the Global South Working Group, UCLA (2017)"
+    ]
+  }, {
+    "grouping": "Invited Talks",
+    "skills": [
+      "Political Sociology and the Global South Working Group, UCLA (2021)",
+      "Markets Organizations and Movements Working Group, UCLA (2021)",
+      "Henan University (2019)",
+      "Political Sociology and the Global South Working Group, UCLA (2019)",
+      "Henan University (2018)",
+      "Shanxi Agricultural University (2018)",
+      "Political Sociology and the Global South Working Group, UCLA (2017)"
+    ]
+  },
+  {
+    "grouping": "Service",
+    "skills": [
+      "Student Co-Coordinator, Theory Supper Club, UCLA Department of Sociology (2020-2022)",
+      "Graduate Student Member, PhD Admission’s Committee, UCLA Department of Sociology (2020-2021)",
+      "President, Sociology Graduate Student Association, UCLA Department of Sociology (2016-2017)",
+      "Student Co-Coordinator, Political Sociology and the Global South Working Group, UCLA Department of Sociology (2016-2017)",
+      "President, Social Sciences Council, UCLA Graduate Student Association (2015-2017)"
+    ]
+  }, 
+  {
+    "grouping": "Field Exams",
+    "skills": [
+      "Political Sociology",
+      "Economic Sociology"
+    ]
+  },{
     "grouping": "Languages",
     "skills": [
-      "Chinese",
-      "English"
-    ]
-  },
-  {
-    "grouping": "Architecture",
-    "skills": [
-      "IP Networking",
-      "DNS",
-      "Firewalls",
-      "Load Balancing",
-      "Microservices",
-      "RESTful APIs",
-      "SaaS/PaaS/IaaS"
-    ]
-  },
-  {
-    "grouping": "Platform Development & Administration",
-    "skills": [
-      "Atlassian",
-      "Bamboo",
-      "Bitbucket",
-      "NGINX",
-      "MySQL",
-      "Wordpress"
+      "Mandarin Chinese (Upper-level Conversational, Reading, Writing)",
+      "French (Intermediate Reading, Writing)"
     ]
   },
   {

@@ -1,19 +1,19 @@
 ---
-title: "A Day in the life of Fan Bing Xiang"
-date: 2016-11-08
-pubtype: "TED Talk"
+title: "Chinatowns Lost? The Birth and Death of Urban Neighborhoods in an American City"
+date: 1996-11-08
+pubtype: "City and Community"
 featured: true
-description: "This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible."
-tags: ["China","Vinegar","Baijiu"]
+description: "DAN TO PROVIDE DESCRIPTION."
+tags: ["DAN","TO","Provide"]
 image: "/img/organicdevops.webp"
-link: "http://www.alldaydevops.com/blog/organically-devops-building-quality-and-security-into-the-software-supply-chain-at-liberty-mutual"
+link: "https://doi.org/10.1177/15356841211016753"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
   priority : 0.8
 ---
 
-
+DAN TO  PROVIDED ANALYSIS HERE/PERHAPS SUMMARY OR ABSTRACT
 This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
 
 - Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.
