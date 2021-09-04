@@ -3,7 +3,7 @@ title: "Compliance and Resistance at the Coalface: Resourceful Recoupling of Env
 pubtype: "Articles in Progress"
 featured: true
 description: "This article DAN TO INSERT HERE"
-tags: ["DAN TO INSERT","TAGS","Coal", "Environmental Sociology", "Political Sociology"]
+tags: ["DAN TO INSERT","TAGS","Coal", "Mining", "Environmental Sociology", "Political Sociology"]
 weight: 400
 sitemap:
   priority : 0.8
