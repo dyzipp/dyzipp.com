@@ -56,45 +56,13 @@
     ]
   },
   {
-    "grouping": "Data Management",
+    "grouping": "More Information and Downloads",
     "skills": [
-      {
-        "name": "Microsoft SQL Server",
-        "icon": "msql_server"
-      },
-      {
-        "name": "Oracle",
-        "icon": "database"
-      },
-      "MongoDB",
-      {
-        "name": "Apache Spark"
-      }
-    ]
-  },
-  {
-    "grouping": "Containers & Cloud",
-    "skills": [
-      {
-        "name": "BOSH",
-        "link": "https://bosh.io"
-      },
-      {
-        "name": "Docker",
-        "link": "https://docker.com"
-      },
-      {
-        "name": "AWS",
-        "link": "https://aws.amazon.com"
-      },
-      {
-        "name": "Google Cloud",
-        "link": "https://cloud.google.com"
-      },
-      {
-        "name": "Linux",
-        "link": "https://bosh.io"
-      }
-    ]
+      {"name":"LinkedIn","link":"https://www.linkedin.com/in/daniel-z-05294379/"},
+      {"name":"UCLA","link":"https://soc.ucla.edu/grads/daniel-zipp"},
+      {"name":"DOWNLOAD RESUME?","link":"https://aws.amazon.com"},
+      {"name":"EMAIL???","link": "dyipp@gmail.com"},
+      {"name":"Linux","link":"https://bosh.io"}
+   ]
   }
 ]

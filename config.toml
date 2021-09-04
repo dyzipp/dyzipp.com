@@ -5,11 +5,11 @@ theme = "hugo-resume"
 enableEmoji = true
 
 [params]
-  author = "Dan Zipp"
+  author = "Daniel Y. Zipp"
   description = "."
   address = "Pittsburgh, PA"
   favicon = "/favicon.ico"
-  firstName = "Daniel"
+  firstName = "Daniel Y."
   lastName = "Zipp"
   profileImage = "images/portrait.png"
   showEducation = true
