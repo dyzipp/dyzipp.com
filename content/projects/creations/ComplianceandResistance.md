@@ -2,12 +2,10 @@
 title: "Compliance and Resistance at the Coalface: Resourceful Recoupling of Environmental Practice in China"
 pubtype: "Articles in Progress"
 featured: true
-description: "This article DAN TO INSERT HERE"
-tags: ["DAN TO INSERT","TAGS","Coal", "Mining", "Environmental Sociology", "Political Sociology"]
+description: "I introduce the concepts of resourceful recoupling and decoupling to show that economic considerations, cultural ethos, bureaucratic positionality, and individual resourcefulness explain what proceeds and follows the instrumental decision to decouple or recouple, as well as how each process actually unfolds."
+tags: ["Political Sociology","Organizational Sociology","Environmental Governance", "Meso-Level Actors", "Qualitative Methods", "Chinese State"]
 weight: 400
 sitemap:
   priority : 0.8
 ---
-
-
-DAN TO INSERT SUMMARY HERE. 
+Political and organizational sociology highlights decoupling—gaps that exist between policies and actual practices—and, more recently, recoupling—efforts to close these gaps. However research has yet to fully explain instances of how efforts to enforce compliance leads to resistance. I spent 12 months in Shanxi and Henan provinces in North-Central China conducting an abductive, comparative ethnography supplemented with 148 semi-structured interviews to show how meso-level state actors in rural, North-Central China resourcefully adopt different orientations towards central state policies mandating reductions in coal consumption, production, and pollution. Meso-level officials in coal-reliant, underdeveloped provinces often prioritized material benefits over compliance, but economics cannot fully explain either their compliance with central policies or their resistance. I introduce the concepts of resourceful recoupling and decoupling to show that economic considerations, cultural ethos, bureaucratic positionality, and individual resourcefulness explain what proceeds and follows the instrumental decision to decouple or recouple, as well as how each process actually unfolds. This case illustrates why and how meso-level officials may engage in risky moments of resistance and complicates theories of compliance and recoupling.

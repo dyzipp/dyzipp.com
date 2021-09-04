@@ -15,4 +15,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-Below are publications on the topics of DAN TO INSERT HERE.
+

@@ -10,4 +10,4 @@ This page represents the landing page for "projects" section. It is also shown u
 IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
 
 -->
-<p>Below are ongoing and future research <a href="/projects/creations">projects</a> focusing on DAN TO INSERT.</p>
+<p>I am particularly interested in studying the ways in which individuals resist attempts by the state to impose its power, and in doing so I use various qualitative research methods and draw on political (including social movements), economic, and organizational sociology. Below I illustrate my interest in resistance through my ongoing <a href="/projects/creations">research projects</a>.</p>
