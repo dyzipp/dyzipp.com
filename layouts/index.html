@@ -3,8 +3,12 @@
    {{ if .Site.Params.showEducation }}
       {{ partial "portfolio/education.html" . }}
    {{ end }}
-   {{ partial "portfolio/skills.html" . }}
-   {{ partial "portfolio/grants.html" . }}
+   {{ if .Site.Params.showPublications }}
+      {{ with .Site.GetPage "section" "publications" }}
+         {{ .Scratch.Set "sectionId" (default "Publications" .Site.Params.publicationsAlternateName) }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
    {{ if .Site.Params.showProjects }}
       {{ with .Site.GetPage "section" "projects/creations" }}
          {{ .Scratch.Set "sectionId" "projects" }}
@@ -17,16 +21,11 @@
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
-   {{ if .Site.Params.showPublications }}
-      {{ with .Site.GetPage "section" "publications" }}
-         {{ .Scratch.Set "sectionId" (default "Publications" .Site.Params.publicationsAlternateName) }}
-         {{ partial "sectionSummary" . }}
-      {{ end }}
-   {{ end }}
-   {{ if .Site.Params.showExperience }}
-       {{ partial "portfolio/experience.html" . }}
-   {{ end }}
-  
+   {{ partial "portfolio/conferences.html" . }}
+   {{ partial "portfolio/experience.html" . }}
+   {{ partial "portfolio/grants.html" . }}
+   {{ partial "portfolio/service.html" . }}
+   {{ partial "portfolio/skills.html" . }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}
          {{ .Scratch.Set "sectionId" "blog" }}
