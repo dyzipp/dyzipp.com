@@ -1,9 +1,9 @@
 ---
-title: "Future Research: Neighborhood Migration from California to Iowa"
+title: "Chinese Neighborhoods in the American West"
 pubtype: "Future Research"
 featured: true
 description: "This will investigate the experiences of Chinese migrants to the United States in the 1800s who created large Chinese neighborhoods from California to Iowa."
-tags: ["Urban Sociology","Neighborhoods","Chinese Migrannts", "Qualitative Methods", "Residential Segregation"]
+tags: ["Urban Sociology","Neighborhoods","Chinese Migrants", "Qualitative Methods", "Residential Segregation"]
 weight: 400
 sitemap:
   priority : 0.8

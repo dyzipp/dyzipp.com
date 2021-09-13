@@ -3,7 +3,7 @@ title: "Daniel Y. Zipp and Marc Blecher. Migrants and Mobilization: Sectoral Pat
 date: 2015-01-31 
 pubtype: "Global Labor Journal"
 featured: true
-description: "DAN TO PROVIDE DESCRIPTION."
+description: "In highlighting the major economic sectors and their instances of worker resistance, we show the wide range of tactics, frames, and contagion among worker protest in the apparel, automobile, construction, and electronic sectors."
 tags: ["Labor Movements","Political Sociology","Chinese State", "Qualitative Methods"]
 image: "/img/organicdevops.webp"
 link: "https://doi.org/10.15173/glj.v6i1.2293"
