@@ -1,5 +1,5 @@
 ---
-title: "Daniel Y. Zipp and Marc Blecher. Migrants and Mobilization: Sectoral Patterns in China, 2010-2013."
+title: "Daniel Y. Zipp and Marc Blecher. Migrants and Mobilization: Sectoral Patterns in China, 2010-2013"
 date: 2015-01-31 
 pubtype: "Global Labor Journal"
 featured: true

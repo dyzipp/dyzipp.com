@@ -1,5 +1,5 @@
 ---
-title: "Future Research: Migrants and Aging"
+title: "Future Research: Migrant Workers and Aging"
 pubtype: "Future Research"
 featured: true
 description: "This series of articles examining how migrant gig and aging manufacturing workers and miners navigate the social  welfare system in China."

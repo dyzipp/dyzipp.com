@@ -1,5 +1,5 @@
 ---
-title: "Chinese Neighborhoods in the American West"
+title: "Future Research: Chinese Neighborhoods in the American West"
 pubtype: "Future Research"
 featured: true
 description: "This will investigate the experiences of Chinese migrants to the United States in the 1800s who created large Chinese neighborhoods from California to Iowa."
