@@ -5,7 +5,15 @@
       "Political Sociology",
       "Economic Sociology"
     ]
-  },{
+  },
+  {
+    "grouping": "Field of Study",
+    "skills": [
+      "Political, Economic, Environmental, and Organizational Sociology",
+      "Ethnography, Interviews, and Historical/Comparative Methods"
+    ]
+  },
+  {
     "grouping": "Languages",
     "skills": [
       "Mandarin Chinese (Upper-level Conversational, Reading, Writing)",
@@ -15,7 +23,7 @@
   {
     "grouping": "More Information and Downloads",
     "skills": [
-      {"name":"CV","link":"https://drive.google.com/file/d/1Fvdn6PgEt528XW_oIl96Gs9QA-hy9a0I/view?usp=sharing"},
+      {"name":"CV","link":"https://soc.ucla.edu/sites/default/files/zipp_cv_2.pdf"},
       {"name":"UCLA","link":"https://soc.ucla.edu/grads/daniel-zipp"},
       {"name":"LinkedIn","link":"https://www.linkedin.com/in/daniel-z-05294379/"},
       {"name":"Email","link": "mailto:dyipp@gmail.com"}
