@@ -16,9 +16,7 @@
                       {{ end }}
                     </li>
                 {{ else }} -->
-                  <li class="list-inline-item">
-                    <i class="devicons devicons-{{ cond (in $.Site.Data.devicons (lower .)) (lower .) "terminal_badge" }}"></i>
-                    {{ . }}
+                  <li class="list-item">
                   </li>
                 <!-- {{ end }} -->
             {{ end }}
