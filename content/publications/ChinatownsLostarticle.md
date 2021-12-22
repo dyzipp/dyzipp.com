@@ -4,8 +4,8 @@ date: 2021-06-11
 pubtype: "City & Community (Featured Article, Dec. 2021)"
 featured: true
 description: "I used comparative historical methodologies to analyze how Chinese migrants resisted efforts to eradicate their neighborhoods in Los Angeles. Chinese residents split off new neighborhoods from dying neighborhoods while maintaining their institutions and memories, showing how neighborhood death and birth are intimately intertwined. This process is not unique to Los Angeles’ Chinatowns, but has yet to be fully explored in other empirical settings."
-tags: ["Urban Sociology","Neighborhoods", "Chinese Migrants", "Residential Segregation", "Qualitative Methods"]
-link: "https://doi.org/10.1177/15356841211016753"
+tags: ["Urban Sociology","Neighborhoods", "Chinese Migrants", "Residential Segregation", "Qualitative Methods", "Podcasts"]
+link: "https://journals.sagepub.com/doi/10.1177/15356841211016753"
 weight: 400
 sitemap:
   priority : 0.8
