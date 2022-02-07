@@ -2,12 +2,15 @@
    
     {
         "role":"Instructor",
-        "company":"\n- Political Sociology\n- Collective Behavior"
+        "company":"\n- Political Sociology\n- Collective Behavior\n- Global Histories of Racialized Economies"
     },{
         "role":"Fellow",
-        "company":"\n- Center for American Politics and Public Policy"
+        "company":"\n- Center for American Politics and Public Policy\n- Interracial Dynamics in American Culture and Society"
     },{
         "role":"Teaching Assistant",
         "company":"\n- Environmental Sociology\n- Economy and Society\n- Political Sociology\n- Development of Sociological Theory \n- Sociology of Contemporary China\n- Collective Behavior\n- Sociology of Mental Illness\n- Border-Crossing, Diasporic Formation, and Social Transformation in Asia"
+    },{
+        "role":"Pedagogical Coursework", 
+        "company":"\n- Teaching Preparation: Writing-Intensive Seminar Development\n- Teaching Apprentice Practicum"
     }
 ]
