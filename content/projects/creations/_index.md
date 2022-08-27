@@ -1,5 +1,5 @@
 ---
-title: "Current and Future Projects"
+title: "Current & Future Projects"
 sitemap:
   priority : 0.9
 ---
