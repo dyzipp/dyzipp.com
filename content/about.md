@@ -1,59 +1,9 @@
 ---
 title: "About"
-date: 2021-01-18T09:28:26-05:00
+date: 2022-08-18T09:28:26-05:00
 draft: false
 ---
 
-## About Me
+I am a Visiting Assistant Professor of Sociology (in the areas of Globalization and Asia and Asian America) at Oberlin College. 
 
-{{< figure class="avatar" src="/images/portrait.png" >}}
-
-## Research Interests
-
-Chinese coalmining.
-
-## Publications
-
-In reverse chronological order:
-1. 2021	**Zipp, Daniel Y.** “Chinatowns Lost? The Birth and Death of Urban Neighborhoods in an American City” City and Community. https://doi.org/10.1177/15356841211016753
-2. 2015	**Zipp, Daniel Y.** and Marc Blecher. "Migrants and Mobilization: Sectoral Patterns in China, 2010-2013." Global Labour Journal 6.1: 116-26.
-
-In progress: 
-1. Zipp, Daniel Y. “Compliance and Resistance at the Coalface: Resourceful Recoupling of Environmental Practice in China.”
-2. Zipp, Daniel Y. and Charlotte M. Hopkinson. “Constructing Legality: Evaluating China’s Rule of Law by Analyzing the Effectiveness of the Remedies Available under Labor Contract Law of 2008 for Migrant Construction Workers.”
-
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table:
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule:
-
----
-
-Here is a blockquote:
-
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+My research primarily focuses on the political economy of Chinese environmental policy implementation through in-depth qualitative methods. Specifically, my scholarship focuses on the myriad of interests (capital, labor, and other state bureaucrats) that mid-level bureaucrats navigate and create as they (fail) to implement environmental policies in Shanxi and Henan provinces, located on China’s largest coalfield, that are meant to curb coal production, consumption, and pollution. To investigate the interactions between mid-level officials and managers, workers, and other officials, I spent 12 months engaged in comparative ethnographic work, supplemented by 148 semi-structured interviews. The future of global climate change is dependent on whether or not Chinese mid-level officials can faithfully implement environmental policies, therefore understanding the ways that they actively resist implementation is crucial.
