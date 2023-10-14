@@ -6,14 +6,15 @@ draft: false
 
 ## Contact Information
 
-Email:  dyzipp@ucla.edu
+Email:  dyzipp@umd.edu
 
 Phone: (330) 835-8851
 
 Address: 
-UCLA	
-Department of Sociology		
-375 Portola Plaza 		
-Los Angeles, CA 90095-1551	
+University Honors
+Honors College
+University of Maryland
+104 Yahentamitsi Hall
+College Park, MD 20742
 
 

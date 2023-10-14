@@ -34,8 +34,9 @@
   {
     "grouping": "More Information and Downloads",
     "skills": [
-      {"name":"CV","link":"https://soc.ucla.edu/sites/default/files/zipp_cv_2.pdf"},
-      {"name":"UCLA","link":"https://soc.ucla.edu/grads/daniel-zipp"},
+      {"name":"CV","link":"https://socy.umd.edu/sites/socy.umd.edu/files/cv/Daniel%20Yoder%20Zipp%20CV-Sp23.pdf"},
+      {"name":"UMD Honors","link":"https://universityhonors.umd.edu/personnel/daniel-yoder-zipp/"},
+      {"name":"UMD Sociology","link":"https://socy.umd.edu/facultyprofile/zipp/daniel-yoder"},
       {"name":"LinkedIn","link":"https://www.linkedin.com/in/daniel-yoder-z-05294379/"},
       {"name":"Email","link": "mailto:dyipp@gmail.com"}
    ]
